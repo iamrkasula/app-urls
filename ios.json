@@ -1,0 +1,306 @@
+{
+  "apps": [
+    {
+      "bundle_id": "com.apple.clips",
+      "app_name": "Clips",
+      "url_scheme": [
+        "clips"
+      ],
+      "timestamp": "2024-04-21T21:52:00.084614Z"
+    },
+    {
+      "bundle_id": "com.apple.iMovie",
+      "app_name": "iMovie",
+      "url_scheme": [
+        "imovie",
+        "imovie1.4"
+      ],
+      "timestamp": "2024-04-22T02:09:24.208724Z"
+    },
+    {
+      "bundle_id": "com.apple.TestFlight",
+      "app_name": "TestFlight",
+      "url_scheme": [
+        "itms-beta"
+      ],
+      "timestamp": "2024-04-22T15:10:29.266489Z"
+    },
+    {
+      "bundle_id": "com.apple.mobilephone",
+      "app_name": "Phone",
+      "url_scheme": [
+        "[shortcut]&param=baca5508ff6045a6ac19a823d35a2f28"
+      ],
+      "timestamp": "2024-05-04T03:07:53.866129Z"
+    },
+    {
+      "bundle_id": "com.apple.camera",
+      "app_name": "Camera",
+      "url_scheme": [
+        "[shortcut]&param=68ea444d7a3a4ee5a2d7dd96c22f0507"
+      ],
+      "timestamp": "2024-05-04T02:56:57.424376Z"
+    },
+    {
+      "bundle_id": "com.apple.mobiletimer",
+      "app_name": "Clock",
+      "url_scheme": [
+        "[shortcut]&param=7165015bebcf4485bab9d28e1c44daaf"
+      ],
+      "timestamp": "2024-05-04T02:56:01.824417Z"
+    },
+    {
+      "bundle_id": "com.apple.MobileAddressBook",
+      "app_name": "Contacts",
+      "url_scheme": [
+        "[shortcut]&param=33463c8ddc8b43d4a0aa8653cedfcbc6"
+      ],
+      "timestamp": "2024-05-04T03:06:20.713411Z"
+    },
+    {
+      "bundle_id": "com.apple.facetime",
+      "app_name": "FaceTime",
+      "url_scheme": [
+        "[shortcut]&param=7593ce337fa447d5a7e2015157eebbcc"
+      ],
+      "timestamp": "2024-05-04T03:09:11.904411Z"
+    },
+    {
+      "bundle_id": "com.apple.reminders",
+      "app_name": "Reminders",
+      "url_scheme": [
+        "x-apple-reminderkit://"
+      ],
+      "timestamp": "2024-05-04T03:10:48.748644Z"
+    },
+    {
+      "bundle_id": "com.apple.Numbers",
+      "app_name": "Numbers",
+      "url_scheme": [
+        "com.apple.iwork.numbers-share"
+      ],
+      "timestamp": "2024-05-04T08:11:13.124031Z"
+    },
+    {
+      "bundle_id": "com.apple.Pages",
+      "app_name": "Pages",
+      "url_scheme": [
+        "com.apple.iwork.pages-share"
+      ],
+      "timestamp": "2024-05-06T11:30:29.665254Z"
+    },
+    {
+      "bundle_id": "com.apple.Preferences",
+      "app_name": "Settings",
+      "url_scheme": [
+        "App-prefs"
+      ],
+      "timestamp": "2024-05-06T14:06:39.062000Z"
+    },
+    {
+      "bundle_id": "com.apple.mobilesafari",
+      "app_name": "Safari",
+      "url_scheme": [
+        "x-web-search"
+      ],
+      "timestamp": "2024-05-06T14:06:08.086242Z"
+    },
+    {
+      "bundle_id": "com.apple.calculator",
+      "app_name": "Calculator",
+      "url_scheme": [
+        "[shortcut]&param=ff78121dac714b56b0dbf50869549598"
+      ],
+      "timestamp": "2024-05-04T02:56:21.340421Z"
+    },
+    {
+      "bundle_id": "com.apple.Bridge",
+      "app_name": "Watch",
+      "url_scheme": [
+        "itms-watchs://"
+      ],
+      "timestamp": "2024-05-10T17:12:16.715935Z"
+    },
+    {
+      "bundle_id": "com.apple.Music",
+      "app_name": "Music",
+      "url_scheme": [
+        "music"
+      ],
+      "timestamp": "2024-05-10T17:14:46.776754Z"
+    },
+    {
+      "bundle_id": "com.apple.mobilemail",
+      "app_name": "Mail",
+      "url_scheme": [
+        "message"
+      ],
+      "timestamp": "2024-05-10T17:14:19.053737Z"
+    },
+    {
+      "bundle_id": "com.apple.mobilenotes",
+      "app_name": "Notes",
+      "url_scheme": [
+        "mobilenotes"
+      ],
+      "timestamp": "2024-05-10T17:09:22.458667Z"
+    },
+    {
+      "bundle_id": "com.apple.Maps",
+      "app_name": "Maps",
+      "url_scheme": [
+        "maps"
+      ],
+      "timestamp": "2024-05-10T17:09:50.933959Z"
+    },
+    {
+      "bundle_id": "com.apple.mobilecal",
+      "app_name": "Calendar",
+      "url_scheme": [
+        "calshow"
+      ],
+      "timestamp": "2024-05-10T17:15:12.935259Z"
+    },
+    {
+      "bundle_id": "com.apple.VoiceMemos",
+      "app_name": "Voice Memos",
+      "url_scheme": [
+        "[shortcut]&param=9423c8542a3949fd8ff7ee06d093fdd3"
+      ],
+      "timestamp": "2024-05-10T17:18:49.339026Z"
+    },
+    {
+      "bundle_id": "com.apple.Keynote",
+      "app_name": "Keynote",
+      "url_scheme": [
+        "com.apple.iwork.keynote-share"
+      ],
+      "timestamp": "2024-05-12T19:40:34.142216Z"
+    },
+    {
+      "bundle_id": "com.apple.supportapp",
+      "app_name": "Apple Support",
+      "url_scheme": [
+        "applesupport"
+      ],
+      "timestamp": "2024-05-12T20:22:47.422067Z"
+    },
+    {
+      "bundle_id": "com.apple.mobilegarageband",
+      "app_name": "MobileGarageBand",
+      "url_scheme": [
+        "garageband",
+        "mobilegarageband203.audiobus"
+      ],
+      "timestamp": "2024-05-12T23:45:38.482829Z"
+    },
+    {
+      "bundle_id": "com.apple.store.Jolly",
+      "app_name": "Apple Store",
+      "url_scheme": [
+        "applestore",
+        "applestore-sec",
+        "wxde3e4ac7392459ad",
+        "wx761814480c29fef9",
+        "applestore-alipay"
+      ],
+      "timestamp": "2024-05-14T09:19:56.679617Z"
+    },
+    {
+      "bundle_id": "com.apple.podcasts",
+      "app_name": "Podcasts",
+      "url_scheme": [
+        "itms-podcasts://"
+      ],
+      "timestamp": "2024-05-10T17:19:11.736995Z"
+    },
+    {
+      "bundle_id": "com.apple.Remote",
+      "app_name": "iTunes Remote",
+      "url_scheme": [
+        "remote"
+      ],
+      "timestamp": "2024-05-31T23:58:27.024408Z"
+    },
+    {
+      "bundle_id": "com.apple.mobileslideshow",
+      "app_name": "Photos",
+      "url_scheme": [
+        "photos-redirect"
+      ],
+      "timestamp": "2024-06-02T22:36:25.169962Z"
+    },
+    {
+      "bundle_id": "com.apple.iBooks",
+      "app_name": "Books",
+      "url_scheme": [
+        "ibooks"
+      ],
+      "timestamp": "2024-06-02T22:38:21.688793Z"
+    },
+    {
+      "bundle_id": "com.apple.DocumentsApp",
+      "app_name": "Files",
+      "url_scheme": [
+        "shareddocuments"
+      ],
+      "timestamp": "2024-06-02T22:39:28.128397Z"
+    },
+    {
+      "bundle_id": "com.apple.Fitness",
+      "app_name": "Fitness",
+      "url_scheme": [
+        "fitnessapp"
+      ],
+      "timestamp": "2024-06-02T22:41:31.849725Z"
+    },
+    {
+      "bundle_id": "com.apple.Health",
+      "app_name": "Health",
+      "url_scheme": [
+        "x-apple-health"
+      ],
+      "timestamp": "2024-06-02T22:42:44.653239Z"
+    },
+    {
+      "bundle_id": "com.apple.MobileSMS",
+      "app_name": "Messages",
+      "url_scheme": [
+        "sms://open?message-guid=0"
+      ],
+      "timestamp": "2024-05-04T04:10:16.215028Z"
+    },
+    {
+      "bundle_id": "com.apple.Home",
+      "app_name": "Home",
+      "url_scheme": [
+        "com.apple.home://"
+      ],
+      "timestamp": "2024-06-11T01:29:37.811483Z"
+    },
+    {
+      "bundle_id": "com.apple.journal",
+      "app_name": "Journal",
+      "url_scheme": [
+        "moments"
+      ],
+      "timestamp": "2024-07-13T16:50:56.616116Z"
+    },
+    {
+      "bundle_id": "com.apple.Passbook",
+      "app_name": "Wallet",
+      "url_scheme": [
+        "wallet"
+      ],
+      "timestamp": "2024-07-13T16:52:40.474520Z"
+    },
+    {
+      "bundle_id": "com.apple.weather",
+      "app_name": "Weather",
+      "url_scheme": [
+        "weather"
+      ],
+      "timestamp": "2024-07-17T14:43:46.647370Z"
+    }
+  ]
+}
